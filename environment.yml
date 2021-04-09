@@ -1,0 +1,10 @@
+name: Week2
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+  - pandas
+  - matplotlib
+  - plotly
+prefix: C:\Users\Alex\anaconda3\envs\Week2
